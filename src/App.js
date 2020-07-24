@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        ahhh dis amazing
+        ahhh dis amazing changing stuff around
       </header>
       <a href="">learn react</a>
     </div>
